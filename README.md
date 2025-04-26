@@ -5,7 +5,9 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-  I'm A novice web and mobile and computer application programmer A technology enthusiast and a novice trader
+- I'm A novice web and mobile and computer application programmer A technology enthusiast and a novice trader
+-👋 a Python developer and anime enthusiast.
+-🚀 Always ready to learn and take on new challenges.
   
 <!---
 MohamadMahdiAmiRi/MohamadMahdiAmiRi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
